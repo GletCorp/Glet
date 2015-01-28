@@ -12,5 +12,6 @@ and open the template in the editor.
     </head>
     <body>
         <div>Este es el repositorio GitHub</div>
+        <table><tr><td>no mames guey</td></tr></table>
     </body>
 </html>
